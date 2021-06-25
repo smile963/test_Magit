@@ -1,3 +1,3 @@
 # test_Magit
 
-changed
+changed by Magit
